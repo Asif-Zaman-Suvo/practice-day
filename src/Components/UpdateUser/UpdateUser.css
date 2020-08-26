@@ -1,0 +1,35 @@
+.newUser{
+    display: flex;
+    border-bottom: 1px solid LightGray;
+    background-color: burlywood;
+}
+
+.newUser img{
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.userName{
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 800;
+    
+}
+
+.main-button{
+    background:blue;
+    color: white;
+    border: none;
+    border-radius:5px;
+    height: 30px;
+    cursor: pointer;
+    border:none;
+}
+
+.main-button:hover{
+    background:green;
+    color:white;
+    border: none;
+}
